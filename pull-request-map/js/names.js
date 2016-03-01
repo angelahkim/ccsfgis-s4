@@ -9,5 +9,6 @@
 var locations = [
   ["CCSFGIS Class", [-122.420, 37.755]],
   ["Sausalito Bay Model", [-122.4949,37.8635]],
-  ["Presidio Sculpture thing", [-122.4600,37.7919]]
+  ["Presidio Sculpture thing", [-122.4600,37.7919]],
+  ["Angela", [-122.4,38.2]]
 ];
